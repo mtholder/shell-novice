@@ -10,7 +10,7 @@ objectives:
 - "Explain the similarities and differences between a file and a directory."
 - "Translate an absolute path into a relative path and vice versa."
 - "Construct absolute and relative paths that identify specific files and directories."
-- "Explain the steps in the shell's read-run-print cycle."
+- "Explain the steps in the shell's read-execute-print loop."
 - "Identify the actual command, flags, and filenames in a command-line call."
 - "Demonstrate the use of tab completion, and explain its advantages."
 keypoints:
